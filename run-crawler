@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /root
+exec /usr/bin/python crawler.py
