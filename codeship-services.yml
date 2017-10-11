@@ -1,0 +1,5 @@
+docker:
+    image: docker
+    add_docker: true
+    volumes:
+      - .:/src
